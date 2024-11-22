@@ -1,6 +1,19 @@
 {
-  "name": "OwO coin",
-  "symbol": "owo",
-  "description": "make OmO face great again. jokes aside Fk Donald Trump.",
-  "image": "https://github.com/VHSkyrie/OwO/blob/main/OwO.png"
+  "name": "OwO Coin",
+  "symbol": "OWO",
+  "description": "Make OwO face great again. Jokes aside, Fk Donald Trump.",
+  "image": "https://raw.githubusercontent.com/VHSkyrie/OwO/main/OwO.png",
+  "external_url": "https://example.com",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme Token" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/VHSkyrie/OwO/main/OwO.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
